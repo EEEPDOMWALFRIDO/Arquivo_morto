@@ -1,6 +1,4 @@
-Segue o texto estruturado para o `README.md` do seu projeto:  
 
----
 
 # Arquivo Morto  
 
